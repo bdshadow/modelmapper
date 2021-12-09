@@ -12,7 +12,7 @@
   <name>ModelMapper Jackson Extension</name>
 
   <properties>
-    <jackson.version>2.2.1</jackson.version>
+    <jackson.version>2.9.10.8</jackson.version>
   </properties>
 
   <dependencies>
